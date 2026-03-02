@@ -1,16 +1,13 @@
-## Hi there 👋
+  # Hello people 👋
 
-<!--
-**Camilo868/Camilo868** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## --My name is Camilo Ramirez
 
-Here are some ideas to get you started:
+Know me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 I’m currently a coder in Riwi and a system ingenieering student of Corporación Universitaria de la Costa.
+- I'm passionate about developing and playing the guitar. 🎸   
+- 🌱 I’m currently learning about python and English.
+- 🎮 My favorite hobby is playing video games.
+
+
+
